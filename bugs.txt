@@ -1,0 +1,112 @@
+﻿myexit called with myexit called with   
+   in cs_initENGLISH at 0: 
+    Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+User data file CONTEXT inconsistent 843 USERS/topic_chase_harry.txt
+jul2116 Mar22'22-22:41:46 0 0 |
+1 0 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~childhood #pending
+~childhood + 2 DDso2 eaaa 0 0 0 
+#`end topics
+$cs_language=ENGLISH
+$cs_time=0
+$cs_trace=0
+$cs_randindex=3401
+$cs_bot=Harry
+$cs_login=chase
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=chase: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~childhood 0 RUNAWAY 
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+ Did you run away from home when you were little?
+ Hello, talk to me!
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I ran away once, but my parents found me and dragged me back.
+#`end chatbot
+ 
+
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+No computer id before user load?
+   in topic_zohreh_anonymous.txt at 0: ^anonymous
+    Adding pos facts changed dictionary
+No computer id before user load?
+   in topic_zohreh_anonymous.txt at 0: ^anonymous
+    Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+No computer id before user load?
+   in topic_zohreh_anonymous.txt at 0: ^anonymous
+    Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+No computer id before user load?
+   in topic_zohreh_anonymous.txt at 0: ^anonymous
+    Adding pos facts changed dictionary
+No computer id before user load?
+   in topic_zohreh_anonymous.txt at 0: ^anonymous
+    Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary

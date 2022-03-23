@@ -6,9 +6,14 @@
 + ^harry 
 + defaultbot 
 + loopback PATTERN_WORD 
-+ can_I_ask_you PATTERN_WORD 
-+ can_I_ask_a_question PATTERN_WORD 
-+ can_I_ask_the_question PATTERN_WORD 
++ I_bet_you_do_not PATTERN_WORD 
++ I_bet_you_would_not PATTERN_WORD 
++ I_bet_you_will_not PATTERN_WORD 
++ not_trust PATTERN_WORD 
++ can_not PATTERN_WORD 
++ what_does_it_matter PATTERN_WORD 
++ why_does_it_matter PATTERN_WORD 
++ how_much PATTERN_WORD 
 + to_go PATTERN_WORD 
 + do_you_need PATTERN_WORD 
 + do_you_want PATTERN_WORD 
@@ -16,10 +21,45 @@
 + do_you_watch PATTERN_WORD 
 + do_you_see PATTERN_WORD 
 + do_you_view PATTERN_WORD 
++ where_be_that PATTERN_WORD 
++ where_be_it PATTERN_WORD 
++ where_will_I_find PATTERN_WORD 
++ where_could_I_find PATTERN_WORD 
++ where_can_I_find PATTERN_WORD 
 + fingers VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL KINDERGARTEN 
 + brains VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL GRADE3_4 
 + how_do_you_spell PATTERN_WORD 
 + how_would_you_spell PATTERN_WORD 
++ leave_you PATTERN_WORD 
++ when_did_you PATTERN_WORD 
++ when_did_I PATTERN_WORD 
++ when_will_it PATTERN_WORD 
++ when_be_it PATTERN_WORD 
++ when_will_I_meet_you PATTERN_WORD 
++ who_be_they PATTERN_WORD 
++ who_be_them PATTERN_WORD 
++ who_be_that PATTERN_WORD 
++ who_be_she PATTERN_WORD 
++ who_create_you PATTERN_WORD 
++ who_made_you PATTERN_WORD 
++ who_built_you PATTERN_WORD 
++ who_be_you_in_love PATTERN_WORD 
++ who_do_you_love PATTERN_WORD 
++ cares VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL KINDERGARTEN 
++ can_I_ask_you PATTERN_WORD 
++ can_I_ask_a_question PATTERN_WORD 
++ can_I_ask_the_question PATTERN_WORD 
++ why_would_I_lie PATTERN_WORD 
++ why_would_I_be_lying PATTERN_WORD 
++ why_do_the PATTERN_WORD 
++ why_do_a PATTERN_WORD 
++ why_would_you_lie PATTERN_WORD 
++ why_would_you_be_lying PATTERN_WORD 
++ why_be_it_bad PATTERN_WORD 
++ why_could_it_be_bad PATTERN_WORD 
++ ignoring VERB_PRESENT_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_GERUND GRADE3_4 
++ what_be PATTERN_WORD 
++ which_be PATTERN_WORD 
 + deflecting VERB_PRESENT_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_GERUND GRADE5_6 
 + not_sure PATTERN_WORD 
 + not_certain PATTERN_WORD 
@@ -28,7 +68,6 @@
 + it_be PATTERN_WORD 
 + be_it PATTERN_WORD 
 + do_you_understand PATTERN_WORD 
-+ what_be PATTERN_WORD 
 + faring VERB_PRESENT_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_GERUND 
 + too_many PATTERN_WORD 
 + not_enough PATTERN_WORD 
@@ -79,15 +118,6 @@
 + you_liar PATTERN_WORD 
 + you_lie PATTERN_WORD 
 + kidding VERB_PRESENT_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_GERUND KINDERGARTEN 
-+ I_bet_you_do_not PATTERN_WORD 
-+ I_bet_you_would_not PATTERN_WORD 
-+ I_bet_you_will_not PATTERN_WORD 
-+ not_trust PATTERN_WORD 
-+ can_not PATTERN_WORD 
-+ what_does_it_matter PATTERN_WORD 
-+ why_does_it_matter PATTERN_WORD 
-+ how_much PATTERN_WORD 
-+ which_be PATTERN_WORD 
 + has_that PATTERN_WORD 
 + does_that_have PATTERN_WORD 
 + be_you PATTERN_WORD 
@@ -96,33 +126,3 @@
 + what_be_you_thought_on PATTERN_WORD 
 + weekends VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL KINDERGARTEN 
 + morals NOUN NOUN_PLURAL GRADE1_2 
-+ when_did_you PATTERN_WORD 
-+ when_did_I PATTERN_WORD 
-+ when_will_it PATTERN_WORD 
-+ when_be_it PATTERN_WORD 
-+ when_will_I_meet_you PATTERN_WORD 
-+ where_be_that PATTERN_WORD 
-+ where_be_it PATTERN_WORD 
-+ where_will_I_find PATTERN_WORD 
-+ where_could_I_find PATTERN_WORD 
-+ where_can_I_find PATTERN_WORD 
-+ who_be_they PATTERN_WORD 
-+ who_be_them PATTERN_WORD 
-+ who_be_that PATTERN_WORD 
-+ who_be_she PATTERN_WORD 
-+ who_create_you PATTERN_WORD 
-+ who_made_you PATTERN_WORD 
-+ who_built_you PATTERN_WORD 
-+ who_be_you_in_love PATTERN_WORD 
-+ who_do_you_love PATTERN_WORD 
-+ cares VERB_PRESENT_3PS NOUN VERB NOUN_PLURAL KINDERGARTEN 
-+ why_would_I_lie PATTERN_WORD 
-+ why_would_I_be_lying PATTERN_WORD 
-+ why_do_the PATTERN_WORD 
-+ why_do_a PATTERN_WORD 
-+ why_would_you_lie PATTERN_WORD 
-+ why_would_you_be_lying PATTERN_WORD 
-+ why_be_it_bad PATTERN_WORD 
-+ why_could_it_be_bad PATTERN_WORD 
-+ ignoring VERB_PRESENT_PARTICIPLE VERB ADJECTIVE_PARTICIPLE NOUN_GERUND GRADE3_4 
-+ leave_you PATTERN_WORD 
