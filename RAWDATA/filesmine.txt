@@ -1,0 +1,5 @@
+RAWDATA/HARRY/simplecontrol.top # default bot control
+RAWDATA/TEST/tutorial.top # tutorial bot data
+
+
+
