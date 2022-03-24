@@ -9,42 +9,6 @@
 # Complexity of rule full_rule_tag_with_possible_label rule_kind complexity_metric (complexity metric for rule) 
 # bot: name_of_macro_it_happens_in botid (possible bot macro) 
 
-file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/childhood.top
-    topic: 2  ~childhood
-        rule: 6  ~childhood.0.0- t: 
-          line: 6 0  # Did you have friends when you 
-          Complexity of rule ~childhood.0.0- t: 1
-        rule: 9  ~childhood.0.1 a: 
-          line: 9 0  # Oh I am sorry about that. Do y
-          Complexity of rule ~childhood.0.1- a: 1
-        rule: 12  ~childhood.0.2 b: 
-          line: 12 0  # How you enjoy it? 
-          line: 13 18  # ^respond ( ~question ) 
-          Complexity of rule ~childhood.0.2- b: 1
-        rule: 16  ~childhood.0.3 b: 
-          line: 16 0  # That's too bad. You should bet
-          line: 17 51  # ^respond ( ~question ) 
-          Complexity of rule ~childhood.0.3- b: 1
-        rule: 20  ~childhood.0.4 a: 
-          line: 20 0  # That's awesome they were _0 . 
-          line: 21 59  # $source = '_0 
-          Complexity of rule ~childhood.0.4- a: 1
-        rule: 24  ~childhood.0.5 b: 
-          line: 24 0  # How you enjoy having $source f
-          line: 25 38  # ^respond ( ~question ) 
-          Complexity of rule ~childhood.0.5- b: 1
-        rule: 28  ~childhood.0.6 b: 
-          line: 28 0  # It's ok. Hopefully you find $s
-          line: 29 51  # ^respond ( ~question ) 
-          Complexity of rule ~childhood.0.6- b: 1
-        rule: 32  ~childhood.1.0-FRIEND t: 
-          line: 32 0  # I had too many friends when I 
-          Complexity of rule ~childhood.1.0-FRIEND t: 1
-        rule: 36  ~childhood.2.0-EVER u: 
-          line: 36 0  # the best friend ever. 
-          Complexity of rule ~childhood.2.0-EVER u: 1
-        rule: 40  ~childhood.3.0 u: 
-          Complexity of rule ~childhood.3.0- u: 1
 file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/introductions.top
     topic: 2  ~introductions
         rule: 5  ~introductions.0.0 t: 
@@ -75,6 +39,43 @@ file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/introdu
         rule: 32  ~introductions.5.0 u: 
           line: 33 0  # I am $source 
           Complexity of rule ~introductions.5.0- u: 1
+file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/friendslife.top
+    topic: 2  ~friendslife
+        rule: 6  ~friendslife.0.0- t: 
+          line: 6 0  # Did you have friends when you 
+          Complexity of rule ~friendslife.0.0- t: 1
+        rule: 9  ~friendslife.0.1 a: 
+          line: 9 0  # Oh I am sorry about that. Do y
+          Complexity of rule ~friendslife.0.1- a: 1
+        rule: 12  ~friendslife.0.2 b: 
+          line: 12 0  # How you enjoy it? 
+          line: 13 18  # ^respond ( ~question ) 
+          Complexity of rule ~friendslife.0.2- b: 1
+        rule: 16  ~friendslife.0.3 b: 
+          line: 16 0  # That's too bad. You should bet
+          line: 17 51  # ^respond ( ~question ) 
+          Complexity of rule ~friendslife.0.3- b: 1
+        rule: 20  ~friendslife.0.4 a: 
+          line: 20 0  # That's awesome they were _0 . 
+          line: 21 59  # $target = '_0 
+          line: 22 73  # ^respond ( ~question ) 
+          Complexity of rule ~friendslife.0.4- a: 1
+        rule: 25  ~friendslife.0.5 b: 
+          line: 25 0  # How you enjoy having $target f
+          line: 26 38  # ^respond ( ~question ) 
+          Complexity of rule ~friendslife.0.5- b: 1
+        rule: 29  ~friendslife.0.6 b: 
+          line: 29 0  # It's ok. Hopefully you find $t
+          line: 30 51  # ^respond ( ~question ) 
+          Complexity of rule ~friendslife.0.6- b: 1
+        rule: 33  ~friendslife.1.0-FRIEND t: 
+          line: 33 0  # I had too many friends when I 
+          Complexity of rule ~friendslife.1.0-FRIEND t: 1
+        rule: 37  ~friendslife.2.0-EVER u: 
+          line: 37 0  # the best friend ever. 
+          Complexity of rule ~friendslife.2.0-EVER u: 1
+        rule: 41  ~friendslife.3.0 u: 
+          Complexity of rule ~friendslife.3.0- u: 1
 file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/simplecontrol.top
     macro: 6  ^harry
           line: 8 0  # $cs_token = 4096 | 255 | 512 |

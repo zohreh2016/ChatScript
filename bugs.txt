@@ -118,3 +118,60 @@ Not allowed to alter query or variable $cs_language from earlier level. Ignored
 Adding pos facts changed dictionary
 Adding pos facts changed dictionary
 Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+User data file CONTEXT inconsistent 1265 USERS/topic_zohreh_harry.txt
+jul2116 Mar23'22-00:18:40 Mar23'22-21:39:44 1648036316-13.45.0.15.12.0 |
+12 11 0 DY 0 22 22 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~childhood ~introductions #pending
+~childhood + 1 tFiv2 ma 8 0 0 
+~introductions + 1 &rup6 bi b 0 0 
+#`end topics
+$cs_language=ENGLISH
+$cs_time=0
+$cs_trace=0
+$cs_randindex=2869
+$cs_bot=Harry
+$cs_login=zohreh
+$cs_token=75726583
+$cs_control_main=~control
+$userprompt=zohreh: >
+$botprompt=HARRY: 
+$singleresponse=1
+$shutup=1
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context ~childhood 8 FRIEND 
+ what is your name
+ haha
+ no
+ thanks it was nice
+ cool
+ had any friends
+ yes i do
+ i love it
+ perfect
+ no
+ alaki
+#`end user
+ Welcome to ChatScript.
+ My name is LOOLOO.
+ Have you been here before?
+ Then welcome to your first time.
+ Glad you came back. Hope you have started a great day.
+ You're welcome.
+ Did you have friends when you were kid?
+ Oh I am sorry about that. Do you have a friend now?
+ How you enjoy it?
+ I had too many friends when I was kid spending 3 years in kindergarten.
+ Are we actually agreeing?
+ Why not?
+ I don't know what to say.
+ Hello, again. Hope you have started a great day.
+#`end chatbot
+ 
+
+Adding pos facts changed dictionary
