@@ -12,74 +12,39 @@
 file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/childhood.top
     topic: 2  ~childhood
         rule: 6  ~childhood.0.0- t: 
-          line: 6 0  # Did you run away from home whe
+          line: 6 0  # Did you have friends when you 
           Complexity of rule ~childhood.0.0- t: 1
         rule: 9  ~childhood.0.1 a: 
-          line: 9 0  # Was it fun? 
+          line: 9 0  # Oh I am sorry about that. Do y
           Complexity of rule ~childhood.0.1- a: 1
-        rule: 12  ~childhood.0.2 a: 
-          line: 12 0  # You should try it some time. T
-          Complexity of rule ~childhood.0.2- a: 1
-        rule: 14  ~childhood.1.0-RUNAWAY t: 
-          line: 14 0  # I ran away once, but my parent
-          Complexity of rule ~childhood.1.0-RUNAWAY t: 1
-        rule: 16  ~childhood.2.0- t: 
-          line: 16 0  # What scared you as a kid? 
-          Complexity of rule ~childhood.2.0- t: 1
-        rule: 19  ~childhood.2.1 a: 
-          line: 19 0  # Did you use a nightlite? 
-          Complexity of rule ~childhood.2.1- a: 1
-        rule: 22  ~childhood.2.2 a: 
-          line: 22 0  # Food? How weird. 
-          Complexity of rule ~childhood.2.2- a: 1
-        rule: 25  ~childhood.2.3 a: 
-          line: 25 0  # There are no non-human monster
-          Complexity of rule ~childhood.2.3- a: 1
-        rule: 28  ~childhood.2.4 a: 
-          line: 28 0  # I guess your parents didn't te
-          Complexity of rule ~childhood.2.4- a: 1
-        rule: 31  ~childhood.2.5 a: 
-          line: 31 0  # Are you afraid of all insects?
-          Complexity of rule ~childhood.2.5- a: 1
-        rule: 34  ~childhood.2.6 a: 
-          line: 34 0  # You and Indiana Jones. Snakes 
-          Complexity of rule ~childhood.2.6- a: 1
-        rule: 37  ~childhood.2.7 a: 
-          line: 37 0  # Big animals are scary. Tiny on
-          Complexity of rule ~childhood.2.7- a: 1
-        rule: 40  ~childhood.2.8 a: 
-          line: 40 0  # Do you still have bad dreams n
-          Complexity of rule ~childhood.2.8- a: 1
-        rule: 43  ~childhood.2.9 b: 
-          line: 43 0  # That's too bad. Maybe you shou
-          Complexity of rule ~childhood.2.9- b: 1
-        rule: 46  ~childhood.2.10 b: 
-          line: 46 0  # I guess you no longer go to ho
-          Complexity of rule ~childhood.2.10- b: 1
-        rule: 48  ~childhood.3.0-SCARE t: 
-          line: 48 0  # I was scared of machines. I ha
-          Complexity of rule ~childhood.3.0-SCARE t: 1
-        rule: 50  ~childhood.4.0- t: 
-          line: 50 0  # Did you have a happy childhood
-          Complexity of rule ~childhood.4.0- t: 1
-        rule: 53  ~childhood.5.0 u: 
-          line: 53 0  # ^reuse ( RUNAWAY ) 
-          Complexity of rule ~childhood.5.0- u: 1
-        rule: 56  ~childhood.6.0-HAPPY u: 
-          line: 56 0  # I was happy as a kid. 
-          Complexity of rule ~childhood.6.0-HAPPY u: 1
-        rule: 59  ~childhood.7.0 u: 
-          line: 59 0  # ^reuse ( HAPPY ) 
-          Complexity of rule ~childhood.7.0- u: 1
-        rule: 62  ~childhood.8.0 u: 
-          line: 62 0  # ^reuse ( SCARE ) 
-          Complexity of rule ~childhood.8.0- u: 1
-        rule: 65  ~childhood.9.0 u: 
-          line: 65 0  # I remember playing with an HO 
-          Complexity of rule ~childhood.9.0- u: 1
-        rule: 68  ~childhood.10.0 u: 
-          line: 68 0  # I was born. I survived childho
-          Complexity of rule ~childhood.10.0- u: 1
+        rule: 12  ~childhood.0.2 b: 
+          line: 12 0  # How you enjoy it? 
+          line: 13 18  # ^respond ( ~question ) 
+          Complexity of rule ~childhood.0.2- b: 1
+        rule: 16  ~childhood.0.3 b: 
+          line: 16 0  # That's too bad. You should bet
+          line: 17 51  # ^respond ( ~question ) 
+          Complexity of rule ~childhood.0.3- b: 1
+        rule: 20  ~childhood.0.4 a: 
+          line: 20 0  # That's awesome they were _0 . 
+          line: 21 59  # $source = '_0 
+          Complexity of rule ~childhood.0.4- a: 1
+        rule: 24  ~childhood.0.5 b: 
+          line: 24 0  # How you enjoy having $source f
+          line: 25 38  # ^respond ( ~question ) 
+          Complexity of rule ~childhood.0.5- b: 1
+        rule: 28  ~childhood.0.6 b: 
+          line: 28 0  # It's ok. Hopefully you find $s
+          line: 29 51  # ^respond ( ~question ) 
+          Complexity of rule ~childhood.0.6- b: 1
+        rule: 32  ~childhood.1.0-FRIEND t: 
+          line: 32 0  # I had too many friends when I 
+          Complexity of rule ~childhood.1.0-FRIEND t: 1
+        rule: 36  ~childhood.2.0-EVER u: 
+          line: 36 0  # the best friend ever. 
+          Complexity of rule ~childhood.2.0-EVER u: 1
+        rule: 40  ~childhood.3.0 u: 
+          Complexity of rule ~childhood.3.0- u: 1
 file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/introductions.top
     topic: 2  ~introductions
         rule: 5  ~introductions.0.0 t: 
@@ -89,25 +54,26 @@ file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/introdu
         rule: 10  ~introductions.1.0 u: 
           line: 11 0  # ok, your day looks _0 . 
           line: 12 24  # $source = '_0 
+          line: 13 38  # ^respond ( ~question ) 
           Complexity of rule ~introductions.1.0- u: 1
-        rule: 16  ~introductions.2.0 t: 
-          line: 17 0  # ^keep ( ) 
-          line: 18 10  # Welcome to ChatScript. 
+        rule: 17  ~introductions.2.0 t: 
+          line: 18 0  # ^keep ( ) 
+          line: 19 10  # Welcome to ChatScript. 
           Complexity of rule ~introductions.2.0- t: 1
-        rule: 21  ~introductions.3.0- t: 
-          line: 21 0  # Have you been here before? 
+        rule: 22  ~introductions.3.0- t: 
+          line: 22 0  # Have you been here before? 
           Complexity of rule ~introductions.3.0- t: 1
-        rule: 23  ~introductions.3.1 a: 
-          line: 23 0  # Welcome back! 
+        rule: 24  ~introductions.3.1 a: 
+          line: 24 0  # Welcome back! 
           Complexity of rule ~introductions.3.1- a: 1
-        rule: 25  ~introductions.3.2 a: 
-          line: 25 0  # Then welcome to your first tim
+        rule: 26  ~introductions.3.2 a: 
+          line: 26 0  # Then welcome to your first tim
           Complexity of rule ~introductions.3.2- a: 1
-        rule: 28  ~introductions.4.0 u: 
-          line: 28 0  # My name is LOOLOO. 
+        rule: 29  ~introductions.4.0 u: 
+          line: 29 0  # My name is LOOLOO. 
           Complexity of rule ~introductions.4.0- u: 1
-        rule: 31  ~introductions.5.0 u: 
-          line: 32 0  # I am $source 
+        rule: 32  ~introductions.5.0 u: 
+          line: 33 0  # I am $source 
           Complexity of rule ~introductions.5.0- u: 1
 file: 0  /Users/zohrehsafari/Desktop/ZohrehChat/ChatScript/RAWDATA/HARRY/simplecontrol.top
     macro: 6  ^harry

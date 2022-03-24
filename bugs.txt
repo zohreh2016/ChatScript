@@ -110,3 +110,11 @@ Not allowed to alter query or variable $cs_language from earlier level. Ignored
 Adding pos facts changed dictionary
 Not allowed to alter query or variable $cs_language from earlier level. Ignored
 Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
