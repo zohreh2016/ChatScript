@@ -10,7 +10,13 @@ t: Did you run away from home when you were little?
 
     #! never
     a: ( ~no ) You should try it some time. Travel broadens the mind. 
+	
+    #! probably
+    a: ( ~maybe ) That's good, at least you think you might have tired it.
 
+    #! I don't know
+    a: (  I * do * ) childhood experiences are valuable and funny.	
+	
 t: RUNAWAY ( ) I ran away once, but my parents found me and dragged me back. 
 
 t: What scared you as a kid? 

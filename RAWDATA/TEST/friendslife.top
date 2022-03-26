@@ -1,0 +1,41 @@
+
+TOPIC: ~friendslife (friend friendship schoolmate company history)
+#!x  This topic is a sample of a simple topic, with good indentation style.
+#!x  It is well commented with annotations for :abstract and :verify.
+
+t: Did you have friends when you were kid? 
+     
+    #! I did not have any friend
+    a: ( [ any no alone ] ) Oh I am sorry about that. Do you have a friend now?
+	
+        #! sure
+        b: ( ~yes ) How you enjoy it?
+        	 
+
+        #! never
+        b: ( ~no ) That's too bad. You should better to make friends.
+        
+
+    #! I had * many _* friends
+    a: ( [ many too a_few number_of] ) That's awesome they were _1. do you still keep in touch ?
+    $target = '_1
+    	
+	
+        #! sure
+        b: ( ~yes ) How you enjoy having $target friends?
+	 
+
+        #! never
+        b: ( ~no ) It's ok. Hopefully you find $target friends again.
+        
+
+
+t: FRIEND ( ) I had too many friends when I was kid spending 3 years in kindergarten.  
+
+
+#! how are your friend?
+u: EVER (how * friend)   the best friend ever.
+
+
+#! who is your best friend?
+u: ( << my [ first closest only best ] friend >> ) ^reuse ( EVER )

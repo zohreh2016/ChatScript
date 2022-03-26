@@ -1,4 +1,3 @@
-
 TOPIC: ~friendslife (friend friendship schoolmate company history)
 #!x  This topic is a sample of a simple topic, with good indentation style.
 #!x  It is well commented with annotations for :abstract and :verify.
@@ -10,24 +9,24 @@ t: Did you have friends when you were kid?
 	
         #! sure
         b: ( ~yes ) How you enjoy it?
-        ^respond(~question)	 
+        	 
 
         #! never
         b: ( ~no ) That's too bad. You should better to make friends.
-        ^respond(~question)
+        
 
     #! I had * many _* friends
     a: ( [ many too a_few number_of] ) That's awesome they were _0. do you still keep in touch ?
     $target = '_0
-    ^respond(~question)	
+    	
 	
         #! sure
         b: ( ~yes ) How you enjoy having $target friends?
-	^respond(~question) 
+	 
 
         #! never
         b: ( ~no ) It's ok. Hopefully you find $target friends again.
-        ^respond(~question)
+        
 
 
 t: FRIEND ( ) I had too many friends when I was kid spending 3 years in kindergarten.  

@@ -6,14 +6,6 @@ fun-loving
 eggheaded
 tingly
 dessicated
-stat
-hinkey
-fraudster
-greenwash
-ashame
-n00b
-manners
-multi
 childrens
 asshat
 clusterfuck
@@ -435,4 +427,12 @@ raygun
 gewurztrauminer
 viognier
 ys
+stat
 sign-up
+hinkey
+fraudster
+greenwash
+ashame
+n00b
+manners
+multi

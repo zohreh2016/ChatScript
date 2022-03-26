@@ -6,12 +6,10 @@ t: ( %input<%userfirstline %input>0 )
 	^keep()  
 	[Welcome back] [Hello, again.][Glad you came back.][Hi.][Hi, again.] Hope you have started a great day.
 
-
 u: (thank you * be _*)
       ok, your day looks _0.
       $source = '_0
       ^respond(~question)	
-
 
 #!x matches every time on startup of a new conversation
 t: ( %input<%userfirstline ) 
@@ -27,7 +25,6 @@ t: Have you been here before?
 
 #! what is your name 
 u: ( what is your name ) My name is LOOLOO.
-
 
 u: (how you feel today)
    I am $source .

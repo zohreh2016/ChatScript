@@ -175,3 +175,61 @@ $shutup=1
  
 
 Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+INFO: SkipOOB failed 3 
+
+9 Thu Mar 24 23:16:51 2022 in sentence:    [A
+INFO: SkipOOB failed 3 
+
+10 Thu Mar 24 23:16:51 2022 in sentence:    [A
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Adding pos facts changed dictionary
+Not allowed to alter query or variable $cs_language from earlier level. Ignored
+Adding pos facts changed dictionary

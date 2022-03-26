@@ -1,4 +1,5 @@
-﻿T~introductions ( here name ~emohowzit ~emohello ~emogoodbye )
+﻿T~childhood ( run_away history younger young memory little kid childhood child )
+T~introductions ( here name ~emohowzit ~emohello ~emogoodbye )
 T~friendslife ( history company schoolmate friendship friend )
 T~control ( )
 T~xpostprocess ( )
